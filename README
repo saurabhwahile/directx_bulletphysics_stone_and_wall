@@ -1,0 +1,12 @@
+Use Arrow Keys To Control The Stone.
+The Objective Is To Hit The Wall With The Stone.
+Each Brick In The Wall Can Be Hit Multiple Times.
+Be Careful Not To Loose The Stone!
+
+The Project Uses DirectX For Rendering And BulletPhysics For All Physics Environment Setup And Control.
+
+System Requirements:
+1366×768 Resolution Supported Monitor(Recommended)
+DirectX 9.0c Supported Graphics Card
+
+Compiling Notes: DirectX SDK And Bulletphysics Must be Installed And Setup Properly In Visual Studio Before Compiling 
